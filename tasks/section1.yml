@@ -864,7 +864,7 @@
   changed_when: false
   when:
       - ubuntu1804cis_rule_1_6_1
-      - not ubuntu1804cis_skip_for_travis
+      - ubuntu1804cis_skip_for_travis
   tags:
       - level1
       - scored
