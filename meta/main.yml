@@ -21,6 +21,3 @@ galaxy_info:
     - hardening
 
 dependencies: []
-
-collections:
-  - ansible.posix
